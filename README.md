@@ -1,0 +1,2 @@
+# ghostty
+👻 theme for Ghostty
