@@ -15,7 +15,7 @@
 
 ### Install
 
-1. Download the file for your flavor of choice from [`themes/`](./themes/) to the `themes/` subdirectory of your [Ghostty configuration _directory_](https://ghostty.org/docs/config#file-location) (i.e. `~/.config/ghostty/themes/`).
+1. Download the theme file from [`theme/`](./theme/) to the `themes/` subdirectory of your [Ghostty configuration _directory_](https://ghostty.org/docs/config#file-location) (i.e. `~/.config/ghostty/themes/`).
 2. Set `theme = boo-berry` in your [Ghostty configuration _file_](https://ghostty.org/docs/config#file-location).
 3. Reload or restart Ghostty.
 
